@@ -5,6 +5,7 @@ import logging
 project_name= "Recommender_system"
 
 structured_directory= [
+    f"src/__init__.py",
     f"src/{project_name}/__init__.py",
     f"src/{project_name}/entity/__init__.py",
     f"src/{project_name}/components/__init__.py",

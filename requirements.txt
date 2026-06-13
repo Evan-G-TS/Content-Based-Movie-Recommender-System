@@ -3,7 +3,11 @@ numpy
 scikit-learn
 matplotlib
 ipykernel
-
-
+supabase
+psycopg2
+dotenv
+ensure
+python-box
+pyyaml
 
 -e .

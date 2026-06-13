@@ -1,0 +1,8 @@
+artifacts_root: artifacts
+
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_table: movies          # db1-rich table in Supabase (85k rows). NOT movies2 (db2, 9k).
+  local_data_file: artifacts/data_ingestion/movies_raw.csv
+  batch_size: 10000             # rows per query; keeps each pull under the Supabase pooler timeout

@@ -1,0 +1,3 @@
+# Model hyperparameters live here.
+# Populated in the Model Trainer stage (Bucket 4) — e.g. vectorizer / similarity settings.
+placeholder: true

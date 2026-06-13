@@ -1,0 +1,3 @@
+# Expected columns / types for the movies data.
+# Populated in the Data Validation stage (Bucket 2).
+placeholder: true

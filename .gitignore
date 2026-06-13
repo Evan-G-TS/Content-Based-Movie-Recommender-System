@@ -1,8 +1,14 @@
 venv/
 initial_data/
 Content_based_movie_recommender_system.egg-info/
+__pycache__/
+*.pyc
+.env
+*.csv
+!sample.csv
+.DS_Store
 
-
+udemy template/
 
 
 
